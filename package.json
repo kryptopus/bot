@@ -1,0 +1,19 @@
+{
+    "name": "kryptopus-bot",
+    "description": "Bot interface",
+    "version": "0.1.0",
+    "author": "neolao <contact@neolao.com>",
+    "repository": "https://github.com/kryptopus/bot.git",
+    "license": "MIT",
+    "files": [
+        "src"
+    ],
+    "engines": {
+        "node": ">= 9"
+    },
+    "dependencies": {},
+    "devDependencies": {
+    },
+    "scripts": {
+    }
+}
