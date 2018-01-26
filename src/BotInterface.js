@@ -5,10 +5,13 @@
  */
 export interface BotInterface
 {
-    setup(services:*);
+    /**
+     * Setup
+     */
+    setup(services:*):void;
 
     /**
      * Execute the bot
      */
-    execute(services:*, now:number);
+    execute(services:*, now:number):void;
 }
